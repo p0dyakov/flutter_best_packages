@@ -25,4 +25,5 @@
 - [google_fonts](https://pub.dev/packages/google_fonts) - использование шрифтов из Google Fonts  
 - [permission_handler](https://pub.dev/packages/permission_handler) - получение разрешений  
 - [image](https://pub.dev/packages/image) - сохранение картинок  
-- [animations](https://pub.dev/packages/animations) - анимации
+- [animations](https://pub.dev/packages/animations) - анимации/
+- [rename](https://pub.dev/packages/rename) - переименовать приложение
