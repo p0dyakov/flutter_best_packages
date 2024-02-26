@@ -1,4 +1,5 @@
 ![Flutter Best Packages](https://github.com/p0dyakov/flutter_best_packages/assets/80569772/3727b19a-148c-471b-b3bc-6e701f9a32d7)
+**Репозитории:** [Flutter Interview](https://github.com/p0dyakov/flutter_interview), [Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap), [Flutter Acrticles](https://github.com/p0dyakov/flutter_articles), [Flutter Best Packages](https://github.com/p0dyakov/flutter_best_packages), [Flutter Tools](https://github.com/p0dyakov/flutter_tools)  
 # Лучшие пакеты для вашего Flutter приложения
 - [drift](https://pub.dev/packages/drift) - sql бд  
 - [shared_preferences](https://pub.dev/packages/shared_preferences) - бд для хранения простых данных  
